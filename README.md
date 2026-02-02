@@ -14,18 +14,21 @@
 
 📍 Based in **Indore, Madhya Pradesh, India**  
 🎓 **B.Tech Student (3rd Year)**  
-💻 Aspiring **Software Developer** with strong interest in **Frontend Development**  
-🌱 Currently learning **JavaScript, React, and Web Development fundamentals**  
-🎯 Focused on building **real-world projects** to strengthen problem-solving skills  
-✨ Believe in **consistent action over motivation**
+💻 Aspiring **Frontend / Software Developer**  
+🌱 Skilled in **HTML, CSS, JavaScript** and learning **React**  
+🎯 Focused on building **real-world projects**  
+✨ Believe in **action over motivation**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/mansi-thakre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mansithakre33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:thakremansi3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -48,9 +51,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🚀 Frameworks & Tools
+### 🛠️ Tools
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -63,9 +65,9 @@
 ### 🎵 Spotify Clone (Frontend Project)
 A responsive **Spotify UI clone** built using **HTML, CSS, and JavaScript**.
 
-- 🎧 Modern UI inspired by Spotify
-- 📱 Fully responsive design
-- 🎨 Clean layouts and reusable components
+- 🎧 Modern music app UI
+- 📱 Fully responsive layout
+- 🎨 Clean and reusable components
 
 **Tech Stack:** HTML · CSS · JavaScript
 
@@ -74,9 +76,20 @@ A responsive **Spotify UI clone** built using **HTML, CSS, and JavaScript**.
 ### ❌⭕ Tic Tac Toe Game
 A classic **Tic Tac Toe game** built using **JavaScript**.
 
-- 🧠 Game logic using JS
+- 🧠 Game logic with win detection
 - 🔄 Reset & replay functionality
-- 🎯 Beginner-friendly project
+- 🎯 Beginner-friendly JS project
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+---
+
+### 📸 Photography Website
+A visually appealing **Photography Portfolio Website** built using **HTML, CSS, and JavaScript**.
+
+- 🖼️ Image gallery with smooth layout
+- 📱 Responsive design for all devices
+- ✨ Interactive UI elements using JavaScript
 
 **Tech Stack:** HTML · CSS · JavaScript
 
@@ -96,12 +109,11 @@ An AI-inspired skincare recommendation platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mansithakre33&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansithakre33&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> *“Small steps every day lead to big results.”* 🌱
-
+> *“Consistency beats motivation every time.”* 🌱
