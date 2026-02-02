@@ -111,10 +111,19 @@ An AI-inspired skincare recommendation platform.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansithakre33&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansithakre33&theme=tokyonight" height="160"/>
-</p>
+## ⭐ Featured Projects
+
+### 🎵 Spotify Clone (Frontend Project)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-SpotifyClon-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/mansithakre33/SpotifyClon)
+
+A clean and responsive **Spotify UI Clone** built using **HTML, CSS, and JavaScript**, focusing on layout, design accuracy, and frontend fundamentals.
+
+- 🎧 Spotify-inspired modern UI  
+- 📱 Fully responsive layout  
+- 🎨 Clean CSS styling and structure  
+
+**Tech Stack:** HTML · CSS · JavaScript
+
 
 ---
 
